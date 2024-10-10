@@ -1,0 +1,13 @@
+#rootElement {
+  color: blue;
+  border: 2px solid red;
+}
+#parent {
+  background-color: red;
+    padding:2rem;
+  border: 2px solid blue;
+}
+#child {
+  background-color: blue;
+  border: 2px solid green;
+}
