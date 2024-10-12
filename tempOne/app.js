@@ -1,5 +1,7 @@
-/*
+import React from 'react';
+import ReactDOM from 'react-dom/client';
 
+/*
 <div id ='parent'>
     <div id='child'>
         <h1>Ramji</h1>
@@ -9,8 +11,8 @@
 
  */
 
-const heading = React.createElement("h1", {}, "Ramji");
-const headingTwo = React.createElement("h2",{} , 'Sitaji')
+const heading = React.createElement("h1", {}, "Ramji  hai all ik lala dostji");
+const headingTwo = React.createElement("h2",{} , 'i am app  ji ')
 const child = React.createElement("div", { id: "child" }, [heading , headingTwo]);
 const parent = React.createElement("div", { id: "parent" }, child);
 
