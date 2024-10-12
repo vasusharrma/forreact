@@ -18,4 +18,10 @@
  - Diagostic
  - HTTPs
  - Tree Shaking algorithm - remove unused code
- - 
+
+
+#JSX
+- JSX is not the part of react
+- jsx is not html inside javscript
+- jsx is html like syntax
+- 

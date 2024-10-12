@@ -2,6 +2,10 @@
   color: blue;
   border: 2px solid red;
 }
+
+#heading{
+  color:red;
+}
 #parent {
   background-color: red;
     padding:2rem;
